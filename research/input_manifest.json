@@ -1,0 +1,298 @@
+{
+  "doi": "10.6084/m9.figshare.29377427.v2",
+  "source": "https://ndownloader.figshare.com/files/58153174",
+  "download_date_Asia_Shanghai": "2026-10-17",
+  "license": "CC BY 4.0",
+  "data_snapshot": "June 2025, per dataset description",
+  "national_archive_md5_from_publisher": "8b786408d8a9d4d16faa531f98cc9fc6",
+  "verification": "Each extracted ZIP member CRC32 verified; national archive MD5 not independently verified because only a subset was downloaded",
+  "files": [
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.cpg",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_routes.cpg",
+      "bytes": 5,
+      "crc32": 243350608,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.dbf",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_routes.dbf",
+      "bytes": 3602986,
+      "crc32": 3102124426,
+      "sha256": "66b5b6be5f7e9552946e1e79759a05d726c2994d976342304351f3ef266d6402"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.prj",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_routes.prj",
+      "bytes": 145,
+      "crc32": 2940436309,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.shp",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_routes.shp",
+      "bytes": 15466788,
+      "crc32": 2478638155,
+      "sha256": "541f5d2803cba20ef06f6fcad57592d8609071247b9ac38a0deb27bc167f54ea"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.shx",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_routes.shx",
+      "bytes": 15908,
+      "crc32": 3501521483,
+      "sha256": "6c248b89a4742ded880696a01a2fee410d836b71f0e95ade91200b434227037d"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.cpg",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_segments.cpg",
+      "bytes": 5,
+      "crc32": 243350608,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.dbf",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_segments.dbf",
+      "bytes": 15020207,
+      "crc32": 1183220101,
+      "sha256": "9e431c7d66ff6d59cab1c6963a632505e75c0f9bfc3101a6091e81e8ae5ae7a7"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.prj",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_segments.prj",
+      "bytes": 145,
+      "crc32": 2940436309,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.shp",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_segments.shp",
+      "bytes": 11152508,
+      "crc32": 3254040625,
+      "sha256": "ac7cf34475497b8eb77127817870a3c92adfb01b2043f6564c22c1c01164424f"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.shx",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_segments.shx",
+      "bytes": 176028,
+      "crc32": 1444470523,
+      "sha256": "dc3666d1eda0ea8b0ee4a15c350efc0dee77a36805598c01c358cbcbab98b944"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.cpg",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops.cpg",
+      "bytes": 5,
+      "crc32": 243350608,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.dbf",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops.dbf",
+      "bytes": 42609399,
+      "crc32": 1922170460,
+      "sha256": "6292ef845ca08c191165a58d788f8e6c697eea506ee7e3d5d42efddc8ae274bd"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.prj",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops.prj",
+      "bytes": 145,
+      "crc32": 2940436309,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.shp",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops.shp",
+      "bytes": 1360480,
+      "crc32": 3133212130,
+      "sha256": "fdaca6190193f3145524303876482bb96b0a4d6d66dc6f1339fee5ebe8942c9f"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.shx",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops.shx",
+      "bytes": 388780,
+      "crc32": 32161824,
+      "sha256": "e3711c1f32ea1a7a54e97d549ee1089667566602886b52edf0c7ebfb8c5c7d0c"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.cpg",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops_unique.cpg",
+      "bytes": 5,
+      "crc32": 243350608,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.dbf",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops_unique.dbf",
+      "bytes": 3024568,
+      "crc32": 3437541085,
+      "sha256": "2d795e263ad47febb66fa342d0538885f45f1baa9b71411faad128cf8443b7d3"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.prj",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops_unique.prj",
+      "bytes": 145,
+      "crc32": 2940436309,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.shp",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops_unique.shp",
+      "bytes": 202204,
+      "crc32": 1502521185,
+      "sha256": "1ec7da34a748441584abbd32a1a443df92056adfd2b023df0357aaf85466f2a0"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.shx",
+      "local_path": "data/CPTOND2025_Shenzhen/bus/shenzhen_bus_stops_unique.shx",
+      "bytes": 57844,
+      "crc32": 1637235064,
+      "sha256": "e9b66c2bcedf6cf23d99c4d4d61d2636fb1ce52a6ec07db4e4617b4adc74126c"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.cpg",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_routes.cpg",
+      "bytes": 5,
+      "crc32": 243350608,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.dbf",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_routes.dbf",
+      "bytes": 89227,
+      "crc32": 2056296587,
+      "sha256": "1f288a7c983821d32bb406c964875678ea74202128465fbf3073b04a02c98a62"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.prj",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_routes.prj",
+      "bytes": 145,
+      "crc32": 2940436309,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.shp",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_routes.shp",
+      "bytes": 231148,
+      "crc32": 19461424,
+      "sha256": "a46b32669d06ca5722c5db0339b891f1be38c471e94b25c268b76d9fac2aae82"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.shx",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_routes.shx",
+      "bytes": 524,
+      "crc32": 3955174113,
+      "sha256": "f388f6a745a01287fbf65b3434d1ca841f1103c439fe2b5f62ca9b2cb22e6150"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.cpg",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_segments.cpg",
+      "bytes": 5,
+      "crc32": 243350608,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.dbf",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_segments.dbf",
+      "bytes": 600711,
+      "crc32": 153719244,
+      "sha256": "04f5c12716a79f1330ae7178ad0acf58a0576b432e6069a6430a97b7c827f2b8"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.prj",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_segments.prj",
+      "bytes": 145,
+      "crc32": 2940436309,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.shp",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_segments.shp",
+      "bytes": 287244,
+      "crc32": 1267937193,
+      "sha256": "66f284b402431cdf2392617042d967d2a9f7458a762b3d736b269c505881763c"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.shx",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_segments.shx",
+      "bytes": 7132,
+      "crc32": 760653658,
+      "sha256": "d1d6b6291add8d3eab5d3aae0eade2881a4d08d83849af977247bb213312a3a9"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.cpg",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops.cpg",
+      "bytes": 5,
+      "crc32": 243350608,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.dbf",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops.dbf",
+      "bytes": 724841,
+      "crc32": 1757837105,
+      "sha256": "1f41ad5da272c625ec96adba130f231f2a15b91c1ff407952a90f4bfe21a3000"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.prj",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops.prj",
+      "bytes": 145,
+      "crc32": 2940436309,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.shp",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops.shp",
+      "bytes": 26616,
+      "crc32": 571105456,
+      "sha256": "2c0bf496b8979e4c04d3ed9e56b39d2253ea05fad087cf6c7080db0f8afb9933"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.shx",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops.shx",
+      "bytes": 7676,
+      "crc32": 1416942462,
+      "sha256": "29b2ef2a52c72b93a84f20f675507c3b89fb2c3b8c8b802b68015562e6df87b4"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.cpg",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops_unique.cpg",
+      "bytes": 5,
+      "crc32": 243350608,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.dbf",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops_unique.dbf",
+      "bytes": 156094,
+      "crc32": 1585743558,
+      "sha256": "f701f804edb05f9228690affdc2a8cdb4025d9191fec74d2501414f97276a5f7"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.prj",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops_unique.prj",
+      "bytes": 145,
+      "crc32": 2940436309,
+      "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.shp",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops_unique.shp",
+      "bytes": 10516,
+      "crc32": 709417064,
+      "sha256": "43d0ea54b927b8e88f78afbf739130ae10bb3c5f8c3c16d5526411d617abe862"
+    },
+    {
+      "archive_member": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.shx",
+      "local_path": "data/CPTOND2025_Shenzhen/metro/shenzhen_metro_stops_unique.shx",
+      "bytes": 3076,
+      "crc32": 1853236223,
+      "sha256": "473204fc9b29af1b0cfd60ebef009c4206dab6d699965bf87dae9319f1573b4b"
+    },
+    {
+      "archive_member": "CPTOND-2025/code/README.md",
+      "local_path": "data/CPTOND2025_Shenzhen/documentation/README.md",
+      "bytes": 20970,
+      "crc32": 469472972,
+      "sha256": "e308674cec145c7eb848b8c7241ee92115ef07c7adf88f7225ca6ed1930db61b"
+    }
+  ]
+}

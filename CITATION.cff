@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this software and the original CPTOND-2025 dataset when using these materials."
+type: software
+title: "Shenzhen Metro Feeder Bus Coverage and Destination Connections"
+authors:
+  - family-names: Zhou
+    given-names: Yefang
+  - family-names: Zhang
+    given-names: Junyao
+  - family-names: Wang
+    given-names: Di
+version: 1.0.0
+date-released: 2026-10-18
+url: "https://github.com/winnieks7/shenzhen-metro-feeder"
+repository-code: "https://github.com/winnieks7/shenzhen-metro-feeder"
+license: MIT
+keywords:
+  - public transport
+  - metro feeder buses
+  - Shenzhen
+  - spatial coverage

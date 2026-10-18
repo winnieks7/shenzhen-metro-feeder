@@ -1,0 +1,200 @@
+[
+  {
+    "case": {
+      "case": "hospital",
+      "station": "茜坑",
+      "station_en": "Qiankeng",
+      "label": "B862路",
+      "target": "市二医院龙华医院",
+      "target_en": "Longhua Hospital"
+    },
+    "direction": "inbound",
+    "candidates": [
+      {
+        "route_id": "900000227339",
+        "route_name": "B862路(市二医院龙华医院--市二医院龙华医院)",
+        "transfer_index": 9,
+        "target_index": 0,
+        "transfer_stop": "田背路口",
+        "target_stop": "市二医院龙华医院",
+        "transfer_distance_m": 463.16956611942743,
+        "ride_distance_m": 5029.964479092514
+      },
+      {
+        "route_id": "900000227339",
+        "route_name": "B862路(市二医院龙华医院--市二医院龙华医院)",
+        "transfer_index": 10,
+        "target_index": 0,
+        "transfer_stop": "茜坑地铁站",
+        "target_stop": "市二医院龙华医院",
+        "transfer_distance_m": 187.21750428859264,
+        "ride_distance_m": 5685.622328927983
+      }
+    ]
+  },
+  {
+    "case": {
+      "case": "hospital",
+      "station": "茜坑",
+      "station_en": "Qiankeng",
+      "label": "B862路",
+      "target": "市二医院龙华医院",
+      "target_en": "Longhua Hospital"
+    },
+    "direction": "outbound",
+    "candidates": [
+      {
+        "route_id": "900000227339",
+        "route_name": "B862路(市二医院龙华医院--市二医院龙华医院)",
+        "transfer_index": 10,
+        "target_index": 16,
+        "transfer_stop": "茜坑地铁站",
+        "target_stop": "市二医院龙华医院",
+        "transfer_distance_m": 187.21750428859264,
+        "ride_distance_m": 3474.297628556401
+      },
+      {
+        "route_id": "900000227339",
+        "route_name": "B862路(市二医院龙华医院--市二医院龙华医院)",
+        "transfer_index": 9,
+        "target_index": 16,
+        "transfer_stop": "田背路口",
+        "target_stop": "市二医院龙华医院",
+        "transfer_distance_m": 463.16956611942743,
+        "ride_distance_m": 4129.95547839187
+      }
+    ]
+  },
+  {
+    "case": {
+      "case": "industrial_park",
+      "station": "兴东",
+      "station_en": "Xingdong",
+      "label": "M518路",
+      "target": "TCL国际E城总站",
+      "target_en": "TCL International E City terminus"
+    },
+    "direction": "inbound",
+    "candidates": [
+      {
+        "route_id": "900000082407",
+        "route_name": "M518路(TCL国际E城总站--前海大厦东广场公交首末站)",
+        "transfer_index": 3,
+        "target_index": 0,
+        "transfer_stop": "雪花啤酒厂",
+        "target_stop": "TCL国际E城总站",
+        "transfer_distance_m": 460.0702253180101,
+        "ride_distance_m": 2430.0572556899397
+      },
+      {
+        "route_id": "900000082407",
+        "route_name": "M518路(TCL国际E城总站--前海大厦东广场公交首末站)",
+        "transfer_index": 4,
+        "target_index": 0,
+        "transfer_stop": "兴东地铁站",
+        "target_stop": "TCL国际E城总站",
+        "transfer_distance_m": 237.48522167685655,
+        "ride_distance_m": 2652.6739601000418
+      },
+      {
+        "route_id": "900000082407",
+        "route_name": "M518路(TCL国际E城总站--前海大厦东广场公交首末站)",
+        "transfer_index": 5,
+        "target_index": 0,
+        "transfer_stop": "中粮创芯公园北",
+        "target_stop": "TCL国际E城总站",
+        "transfer_distance_m": 91.9577653245425,
+        "ride_distance_m": 2981.8707359962464
+      }
+    ]
+  },
+  {
+    "case": {
+      "case": "industrial_park",
+      "station": "兴东",
+      "station_en": "Xingdong",
+      "label": "M518路",
+      "target": "TCL国际E城总站",
+      "target_en": "TCL International E City terminus"
+    },
+    "direction": "outbound",
+    "candidates": [
+      {
+        "route_id": "440300014797",
+        "route_name": "M518路(前海大厦东广场公交首末站--TCL国际E城总站)",
+        "transfer_index": 21,
+        "target_index": 23,
+        "transfer_stop": "雪花啤酒厂",
+        "target_stop": "TCL国际E城总站",
+        "transfer_distance_m": 373.1270376715496,
+        "ride_distance_m": 2472.0848089672454
+      },
+      {
+        "route_id": "440300014797",
+        "route_name": "M518路(前海大厦东广场公交首末站--TCL国际E城总站)",
+        "transfer_index": 20,
+        "target_index": 23,
+        "transfer_stop": "兴东地铁站",
+        "target_stop": "TCL国际E城总站",
+        "transfer_distance_m": 191.37172717937187,
+        "ride_distance_m": 2653.9386638224114
+      },
+      {
+        "route_id": "440300014797",
+        "route_name": "M518路(前海大厦东广场公交首末站--TCL国际E城总站)",
+        "transfer_index": 19,
+        "target_index": 23,
+        "transfer_stop": "中粮创芯公园北",
+        "target_stop": "TCL国际E城总站",
+        "transfer_distance_m": 387.85140235296126,
+        "ride_distance_m": 3233.024525323668
+      }
+    ]
+  },
+  {
+    "case": {
+      "case": "office",
+      "station": "前海湾",
+      "station_en": "Qianhaiwan",
+      "label": "B830路",
+      "target": "前海大厦",
+      "target_en": "Qianhai Tower"
+    },
+    "direction": "inbound",
+    "candidates": [
+      {
+        "route_id": "900000228161",
+        "route_name": "B830路(前海湾地铁站--前海湾地铁站)",
+        "transfer_index": 4,
+        "target_index": 1,
+        "transfer_stop": "前海湾地铁站",
+        "target_stop": "前海大厦",
+        "transfer_distance_m": 169.69933739292063,
+        "ride_distance_m": 1838.6521506089957
+      }
+    ]
+  },
+  {
+    "case": {
+      "case": "office",
+      "station": "前海湾",
+      "station_en": "Qianhaiwan",
+      "label": "B830路",
+      "target": "前海大厦",
+      "target_en": "Qianhai Tower"
+    },
+    "direction": "outbound",
+    "candidates": [
+      {
+        "route_id": "900000228161",
+        "route_name": "B830路(前海湾地铁站--前海湾地铁站)",
+        "transfer_index": 0,
+        "target_index": 1,
+        "transfer_stop": "前海湾地铁站",
+        "target_stop": "前海大厦",
+        "transfer_distance_m": 169.69933739292063,
+        "ride_distance_m": 1572.490373656623
+      }
+    ]
+  }
+]

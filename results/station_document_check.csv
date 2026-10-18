@@ -1,0 +1,23 @@
+station,nearby_label_stop_pairs,official_route_matched_pairs,official_stop_matched_pairs,example,scope
+罗湖,46,41,38,73路 / 渔民村,document_name_comparison_only_not_walk_validation
+福田,30,28,15,M441路 / 购物公园,document_name_comparison_only_not_walk_validation
+岗厦北,19,16,6,B709路 / 海田路口,document_name_comparison_only_not_walk_validation
+车公庙,35,33,11,26路 / 喜年中心,document_name_comparison_only_not_walk_validation
+后海,22,22,18,M519路 / 漾日湾畔,document_name_comparison_only_not_walk_validation
+深圳北,29,29,22,M572路 / 深圳北站交通枢纽公交场站,document_name_comparison_only_not_walk_validation
+机场,11,11,10,M387路 / 机场新航站楼,document_name_comparison_only_not_walk_validation
+碧头,3,2,2,M495路 / 碧头地铁站,document_name_comparison_only_not_walk_validation
+松岗,16,16,13,M255路 / 御溪城,document_name_comparison_only_not_walk_validation
+光明,2,1,1,B989路 / 光明地铁站,document_name_comparison_only_not_walk_validation
+深理工,4,4,3,B987线 / 公常北圳路口,document_name_comparison_only_not_walk_validation
+牛湖,13,13,13,B878路 / 石一村小组,document_name_comparison_only_not_walk_validation
+双龙,39,38,5,810路 / 龙兴街,document_name_comparison_only_not_walk_validation
+坪地六联,20,17,17,862路 / 坪地刘屋村,document_name_comparison_only_not_walk_validation
+沙田,20,20,6,M361路 / 坪山大道金沙路口,document_name_comparison_only_not_walk_validation
+田心,6,6,6,939路 / 田心地铁站,document_name_comparison_only_not_walk_validation
+小梅沙,2,2,2,M362线 / 小梅沙,document_name_comparison_only_not_walk_validation
+深圳湾口岸,2,2,2,M493路 / 日出剧场,document_name_comparison_only_not_walk_validation
+会展城,2,2,2,M336路 / 沙福毓秀路口,document_name_comparison_only_not_walk_validation
+科学馆,49,49,49,B930路 / 爱华市场,document_name_comparison_only_not_walk_validation
+仙湖路,53,52,52,57路 / 莲塘消防中队,document_name_comparison_only_not_walk_validation
+沙井,38,38,38,653路 / 万丰人行天桥,document_name_comparison_only_not_walk_validation

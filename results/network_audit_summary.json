@@ -1,0 +1,25 @@
+{
+  "raw_bus_routes": 1976,
+  "raw_bus_stop_rows": 48585,
+  "raw_bus_route_ids": 1976,
+  "bus_decisions": {
+    "geometrically_usable": 1879,
+    "status_or_type": 94,
+    "invalid_sequence": 1,
+    "missing_route_geometry": 2
+  },
+  "core_usable_by_tolerance": {
+    "50": 1231,
+    "100": 1231,
+    "200": 1231
+  },
+  "all_ordinary_usable_by_tolerance": {
+    "50": 1879,
+    "100": 1879,
+    "200": 1879
+  },
+  "metro_raw_routes": 53,
+  "metro_kept_directions": 32,
+  "metro_unique_stations": 325,
+  "max_station_group_span_m": 451.08627334076994
+}

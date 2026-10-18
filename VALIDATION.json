@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "date": "2026-10-18",
+  "execution": "Fresh isolated working copy; downloaded the original Shenzhen members from Figshare, then rebuilt the complete workflow using the recorded Python/package environment.",
+  "source_members_sha256_verified": 41,
+  "geometry_unit_tests_passed": 5,
+  "scenario_tables_recomputed": 31,
+  "numeric_tables_compared": 48,
+  "numeric_rtol": 1e-10,
+  "numeric_atol": 1e-10,
+  "maximum_absolute_numeric_difference": 0.0,
+  "geometry_files_byte_identical": 5,
+  "destination_ordered_paths_byte_identical": true,
+  "scientific_scripts_identical_to_manuscript_analysis": 11,
+  "reachability_boundary_checks": 80,
+  "plotting_scripts_completed": true,
+  "scope": "This verifies reproducibility of the released calculations in the recorded environment. It does not validate real-world travel access or passenger effects."
+}

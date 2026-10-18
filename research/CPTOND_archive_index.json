@@ -1,0 +1,371 @@
+[
+  {
+    "name": "CPTOND-2025/code/README.md",
+    "bytes": 20970,
+    "compressed": 5890,
+    "offset": 75181,
+    "crc": 469472972,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.cpg",
+    "bytes": 5,
+    "compressed": 5,
+    "offset": 856098901,
+    "crc": 243350608,
+    "method": 0,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.dbf",
+    "bytes": 3602986,
+    "compressed": 266597,
+    "offset": 856099003,
+    "crc": 3102124426,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.prj",
+    "bytes": 145,
+    "compressed": 121,
+    "offset": 856365697,
+    "crc": 2940436309,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.shp",
+    "bytes": 15466788,
+    "compressed": 11195970,
+    "offset": 856365915,
+    "crc": 2478638155,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_routes.shx",
+    "bytes": 15908,
+    "compressed": 11042,
+    "offset": 867561982,
+    "crc": 3501521483,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.cpg",
+    "bytes": 5,
+    "compressed": 5,
+    "offset": 867573121,
+    "crc": 243350608,
+    "method": 0,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.dbf",
+    "bytes": 15020207,
+    "compressed": 1097890,
+    "offset": 867573225,
+    "crc": 1183220101,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.prj",
+    "bytes": 145,
+    "compressed": 121,
+    "offset": 868671214,
+    "crc": 2940436309,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.shp",
+    "bytes": 11152508,
+    "compressed": 7514061,
+    "offset": 868671434,
+    "crc": 3254040625,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_segments.shx",
+    "bytes": 176028,
+    "compressed": 82474,
+    "offset": 876185594,
+    "crc": 1444470523,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.cpg",
+    "bytes": 5,
+    "compressed": 5,
+    "offset": 876268167,
+    "crc": 243350608,
+    "method": 0,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.dbf",
+    "bytes": 42609399,
+    "compressed": 2054478,
+    "offset": 876268268,
+    "crc": 1922170460,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.prj",
+    "bytes": 145,
+    "compressed": 121,
+    "offset": 878322842,
+    "crc": 2940436309,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.shp",
+    "bytes": 1360480,
+    "compressed": 706672,
+    "offset": 878323059,
+    "crc": 3133212130,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops.shx",
+    "bytes": 388780,
+    "compressed": 72265,
+    "offset": 879029827,
+    "crc": 32161824,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.cpg",
+    "bytes": 5,
+    "compressed": 5,
+    "offset": 879102188,
+    "crc": 243350608,
+    "method": 0,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.dbf",
+    "bytes": 3024568,
+    "compressed": 254641,
+    "offset": 879102296,
+    "crc": 3437541085,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.prj",
+    "bytes": 145,
+    "compressed": 121,
+    "offset": 879357040,
+    "crc": 2940436309,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.shp",
+    "bytes": 202204,
+    "compressed": 115542,
+    "offset": 879357264,
+    "crc": 1502521185,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/bus/shapefiles/Shenzhen/shenzhen_bus_stops_unique.shx",
+    "bytes": 57844,
+    "compressed": 10817,
+    "offset": 879472909,
+    "crc": 1637235064,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.cpg",
+    "bytes": 5,
+    "compressed": 5,
+    "offset": 2156377012,
+    "crc": 243350608,
+    "method": 0,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.dbf",
+    "bytes": 89227,
+    "compressed": 5154,
+    "offset": 2156377118,
+    "crc": 2056296587,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.prj",
+    "bytes": 145,
+    "compressed": 121,
+    "offset": 2156382373,
+    "crc": 2940436309,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.shp",
+    "bytes": 231148,
+    "compressed": 144425,
+    "offset": 2156382595,
+    "crc": 19461424,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_routes.shx",
+    "bytes": 524,
+    "compressed": 353,
+    "offset": 2156527121,
+    "crc": 3955174113,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.cpg",
+    "bytes": 5,
+    "compressed": 5,
+    "offset": 2156527575,
+    "crc": 243350608,
+    "method": 0,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.dbf",
+    "bytes": 600711,
+    "compressed": 28366,
+    "offset": 2156527683,
+    "crc": 153719244,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.prj",
+    "bytes": 145,
+    "compressed": 121,
+    "offset": 2156556152,
+    "crc": 2940436309,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.shp",
+    "bytes": 287244,
+    "compressed": 167671,
+    "offset": 2156556376,
+    "crc": 1267937193,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_segments.shx",
+    "bytes": 7132,
+    "compressed": 3336,
+    "offset": 2156724150,
+    "crc": 760653658,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.cpg",
+    "bytes": 5,
+    "compressed": 5,
+    "offset": 2156727589,
+    "crc": 243350608,
+    "method": 0,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.dbf",
+    "bytes": 724841,
+    "compressed": 31915,
+    "offset": 2156727694,
+    "crc": 1757837105,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.prj",
+    "bytes": 145,
+    "compressed": 121,
+    "offset": 2156759709,
+    "crc": 2940436309,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.shp",
+    "bytes": 26616,
+    "compressed": 9630,
+    "offset": 2156759930,
+    "crc": 571105456,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops.shx",
+    "bytes": 7676,
+    "compressed": 1536,
+    "offset": 2156769660,
+    "crc": 1416942462,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.cpg",
+    "bytes": 5,
+    "compressed": 5,
+    "offset": 2156771296,
+    "crc": 243350608,
+    "method": 0,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.dbf",
+    "bytes": 156094,
+    "compressed": 9213,
+    "offset": 2156771408,
+    "crc": 1585743558,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.prj",
+    "bytes": 145,
+    "compressed": 121,
+    "offset": 2156780728,
+    "crc": 2940436309,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.shp",
+    "bytes": 10516,
+    "compressed": 6230,
+    "offset": 2156780956,
+    "crc": 709417064,
+    "method": 8,
+    "flags": 0
+  },
+  {
+    "name": "CPTOND-2025/dataset/metro/shapefiles/Shenzhen/shenzhen_metro_stops_unique.shx",
+    "bytes": 3076,
+    "compressed": 684,
+    "offset": 2156787293,
+    "crc": 1853236223,
+    "method": 8,
+    "flags": 0
+  }
+]

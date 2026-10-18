@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.sz.gov.cn/xxgk/sydwxxgk/jt/gj/ywxx/gjlx/content/post_12183737.html",
+  "source_period": "2025-04",
+  "source_published": "2025-05-20",
+  "source_sha256": "63860cf7d36551b3d6bcd7190b64812c221384fc8f326ebba862e91a8d4c4a15",
+  "official_rows": 899,
+  "core_labels": 714,
+  "official_matched_labels": 672,
+  "checked_stations": 22,
+  "stations_with_match": 22,
+  "pair_counts": {
+    "nearby_label_stop_pairs": 461,
+    "official_route_matched_pairs": 442,
+    "official_stop_matched_pairs": 331
+  },
+  "limit": "April registry precedes June geometry; names cannot validate pedestrian connectivity or current operation."
+}

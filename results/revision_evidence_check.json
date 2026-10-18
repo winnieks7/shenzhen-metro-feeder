@@ -1,0 +1,115 @@
+{
+  "cases": [
+    {
+      "station_id": "S022",
+      "station": "仙湖路",
+      "direction": "inbound",
+      "N": 28,
+      "L": 23,
+      "distinct_coordinates": 70,
+      "A_km2": 8.11305845266768,
+      "S_km2": 37.756098328371834,
+      "O": 0.7851192572360921,
+      "largest_unique_route": "M146路(莲馨家园总站--莲馨家园总站)",
+      "largest_unique_km2": 0.49900117596405946,
+      "largest_unique_footprint_km2": 2.816714877231897
+    },
+    {
+      "station_id": "S022",
+      "station": "仙湖路",
+      "direction": "outbound",
+      "N": 28,
+      "L": 23,
+      "distinct_coordinates": 73,
+      "A_km2": 9.656167928733002,
+      "S_km2": 47.72021306517144,
+      "O": 0.7976503601200274,
+      "largest_unique_route": "M468路(东方尊峪公交总站--东方尊峪公交总站)",
+      "largest_unique_km2": 0.9190445720795151,
+      "largest_unique_footprint_km2": 3.946216062364169
+    },
+    {
+      "station_id": "S177",
+      "station": "沙井",
+      "direction": "inbound",
+      "N": 28,
+      "L": 15,
+      "distinct_coordinates": 155,
+      "A_km2": 26.026460862413877,
+      "S_km2": 58.11141105077562,
+      "O": 0.5521282241852137,
+      "largest_unique_route": "M387路(宝安机场场站--果林村场站)",
+      "largest_unique_km2": 1.41480609449751,
+      "largest_unique_footprint_km2": 2.240802919354674
+    },
+    {
+      "station_id": "S177",
+      "station": "沙井",
+      "direction": "outbound",
+      "N": 28,
+      "L": 15,
+      "distinct_coordinates": 150,
+      "A_km2": 25.576957694553435,
+      "S_km2": 56.1155428920648,
+      "O": 0.5442090305755516,
+      "largest_unique_route": "M333路(大田洋公交场站--沙井新城市广场)",
+      "largest_unique_km2": 1.264711610235859,
+      "largest_unique_footprint_km2": 2.3156893117273256
+    }
+  ],
+  "ratio_decomposition": {
+    "area": 3.2079715700625866,
+    "summed": 1.5391264887957923,
+    "nonoverlap": 2.0842806575127515
+  },
+  "ordered_reachability_checks": 80,
+  "persistence_counts": {
+    "inbound": {
+      "positive": 5,
+      "negative": 6
+    },
+    "outbound": {
+      "positive": 4,
+      "negative": 4
+    }
+  },
+  "input_sha256": {
+    "results/cases/S022_inbound.geojson": "8cc95925009407f1287342d99250542d09288a1d5819d1d38aa4f4b5e9e2009b",
+    "results/cases/S022_inbound_routes.csv": "21a46f7516ed3e3218d206f088399a81b7230df67df3177d53b31869e3656ea1",
+    "results/cases/S022_outbound.geojson": "be25afd0b004ed1e224e425870bccc46fab6f67f162a7a1dde5b114660b02e01",
+    "results/cases/S022_outbound_routes.csv": "c9ca041294870bbb3125279d7f850ff62466bb597f4ee9371b6b58a2e8d87010",
+    "results/cases/S177_inbound.geojson": "1e882eddad2b182d2abee88ae0aa9fc78cdfeef38898beac9e27074a81c1b1d0",
+    "results/cases/S177_inbound_routes.csv": "64a2048fdfddecee2344f588101ef6c220a72818175ff62ef323e6ca62aef04f",
+    "results/cases/S177_outbound.geojson": "ea0ec8efea91d0f992a7a4c571a99863ad4bfb0baa2f648fe8eaae71ff3b880d",
+    "results/cases/S177_outbound_routes.csv": "2bfde040c0224f0431a043bdba5ccc96c33d5373770e7bb130e5bbb06800f462",
+    "results/scenarios/core_r300_d3000_b200.csv": "012242bbc9bcb94fd4aa328d8115d9da97d5c37a9fe0e76b0da12e012cdc7cbe",
+    "results/scenarios/core_r300_d3000_b300.csv": "5acd51aadb801693ce4fd0a1daf5dae650e9a04963d5a557f531fcda378224f4",
+    "results/scenarios/core_r300_d3000_b500.csv": "4b3b7a516b4fcb1fc7748698681782682c4cae30408fb5ca22204c022c929d93",
+    "results/scenarios/core_r300_d5000_b200.csv": "23b8777b8c4518bf4307e365ccfbe99ca912975aa7b0ad64bfc3f02685ba64fa",
+    "results/scenarios/core_r300_d5000_b300.csv": "5959cadacef0ae069ded3abc2e0b48ab3ca68b8e9abcf5869c879f4d2b082d3a",
+    "results/scenarios/core_r300_d5000_b500.csv": "80a5327addc1b0c83c037f04bd4e382533de2dc8cd47d77539c40a9de36fe8b4",
+    "results/scenarios/core_r300_d8000_b200.csv": "dcf8dc4ecf0a424a92c4593d079f13be7c7067de21a7d6660efa4c3abc876514",
+    "results/scenarios/core_r300_d8000_b300.csv": "a71efbbe140884d51dfce6dc8702d5db9a964bef328a34d21fc37934327b055d",
+    "results/scenarios/core_r300_d8000_b500.csv": "3a8eee113fca777c65440e65624794bdd90d6c77a9b954f066ac9bccdff7008a",
+    "results/scenarios/core_r500_d3000_b200.csv": "1f7b4738f25a8be9570ec14990a0ee9ae5c0e71c43021596888e25549d5b58c7",
+    "results/scenarios/core_r500_d3000_b300.csv": "586cd12a74253fcf222b75a76c1e4e09c1b1b90f2d4a4015d3177a5fe2df705f",
+    "results/scenarios/core_r500_d3000_b500.csv": "faaa9b7c07923d6bb15fba284f4d2d65a6cc599b7ff3af0f64789ddbecb97a22",
+    "results/scenarios/core_r500_d5000_b200.csv": "a90ee663bce52058207c6ec0ee477abb7adecea15ee2e432157ef006c8086941",
+    "results/scenarios/core_r500_d5000_b300.csv": "5329197ca8ce7cd942fc5bc99d7491a44e187431167d40f3162a6f4d43e31afe",
+    "results/scenarios/core_r500_d5000_b500.csv": "cc717d64c833ff6b39fbc6ac074c89eac89679d2637258f5f440a5b1800049a8",
+    "results/scenarios/core_r500_d8000_b200.csv": "1cd539c8244381175c9f29e518e503b6a20be444baf32cc15a787715ddb7b9cd",
+    "results/scenarios/core_r500_d8000_b300.csv": "e4268818dd3ed1ff6e6b60412ab9307cca9b7b38fdadbd88f06a611a34ffe08b",
+    "results/scenarios/core_r500_d8000_b500.csv": "fa719aa71405a1bce0c7755bb5115d98749379933e072a10dd39b79464fa4e5c",
+    "results/scenarios/core_r800_d3000_b200.csv": "7c55b251b7db5418ab48e969c287cf8421536e52638673f40f5dbb56efc8aca4",
+    "results/scenarios/core_r800_d3000_b300.csv": "05ea38628eb3abea83d147a80e1d90d3598f8991f5f5a3866551708ea82e7550",
+    "results/scenarios/core_r800_d3000_b500.csv": "2145a4bf29b20fb8a27e2a377690a0e861c76c800f7fde3dcbea0e3518b28057",
+    "results/scenarios/core_r800_d5000_b200.csv": "56de680b8432124a1b53422ebbb40c1877302a6d542f409d94ea7af9167f07aa",
+    "results/scenarios/core_r800_d5000_b300.csv": "b79ee8353225dade92e645a7729d09eb9af35a3561d4a2a7ee908d39006847b3",
+    "results/scenarios/core_r800_d5000_b500.csv": "773deaca988f415acd9b1a3817875194141cbc6287dc1798a911f83ef9db5564",
+    "results/scenarios/core_r800_d8000_b200.csv": "4fae5343e82a73dea07d9b82e3a95b0e766876dfe5d0281bd70e693067297d99",
+    "results/scenarios/core_r800_d8000_b300.csv": "9dcc72ceefad5893c50c65045912a08f52c82e1dcd116e50d1211db28eacdd60",
+    "results/scenarios/core_r800_d8000_b500.csv": "1796fa91d83ebddeee6f1968744c2ca765d9fbcc1414f62accdd8a60eb64b0fb",
+    "results/baseline.csv": "5329197ca8ce7cd942fc5bc99d7491a44e187431167d40f3162a6f4d43e31afe",
+    "results/prepared_network.json": "a194bbf835d684a42f790695e07073aeaa7d888f7f61cad215105277cba34ca4"
+  }
+}

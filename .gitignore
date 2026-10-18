@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+*.log
+data/CPTOND2025_Shenzhen/
+research/download_ranges/
+results/prepared_network.json
+paper/qa/
+paper/figures/*.pdf
+paper/figures/*.svg

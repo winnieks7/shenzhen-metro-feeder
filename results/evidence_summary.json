@@ -1,0 +1,250 @@
+{
+  "baseline": [
+    {
+      "direction": "inbound",
+      "comparator": "N",
+      "n_stations": 325,
+      "spearman": 0.8529596927500016,
+      "mean_abs_percentile_gap": 0.11267218934911243,
+      "gap_ge20pp_n": 54,
+      "top_k": 65,
+      "top_overlap": 44,
+      "top_jaccard": 0.5116279069767442,
+      "tied_top_comparator_n": 67,
+      "tied_top_A_n": 65,
+      "tied_top_overlap": 45,
+      "zero_service": 6,
+      "median_A": 14.56152672802824,
+      "median_O": 0.62360652580504
+    },
+    {
+      "direction": "inbound",
+      "comparator": "L",
+      "n_stations": 325,
+      "spearman": 0.8188487820410016,
+      "mean_abs_percentile_gap": 0.12452544378698226,
+      "gap_ge20pp_n": 64,
+      "top_k": 65,
+      "top_overlap": 41,
+      "top_jaccard": 0.4606741573033708,
+      "tied_top_comparator_n": 68,
+      "tied_top_A_n": 65,
+      "tied_top_overlap": 43,
+      "zero_service": 6,
+      "median_A": 14.56152672802824,
+      "median_O": 0.62360652580504
+    },
+    {
+      "direction": "inbound",
+      "comparator": "S_km2",
+      "n_stations": 325,
+      "spearman": 0.9051898487484848,
+      "mean_abs_percentile_gap": 0.08977041420118344,
+      "gap_ge20pp_n": 41,
+      "top_k": 65,
+      "top_overlap": 45,
+      "top_jaccard": 0.5294117647058824,
+      "tied_top_comparator_n": 65,
+      "tied_top_A_n": 65,
+      "tied_top_overlap": 45,
+      "zero_service": 6,
+      "median_A": 14.56152672802824,
+      "median_O": 0.62360652580504
+    },
+    {
+      "direction": "outbound",
+      "comparator": "N",
+      "n_stations": 325,
+      "spearman": 0.8433299928146696,
+      "mean_abs_percentile_gap": 0.11768994082840237,
+      "gap_ge20pp_n": 58,
+      "top_k": 65,
+      "top_overlap": 45,
+      "top_jaccard": 0.5294117647058824,
+      "tied_top_comparator_n": 69,
+      "tied_top_A_n": 65,
+      "tied_top_overlap": 46,
+      "zero_service": 6,
+      "median_A": 14.697472480908807,
+      "median_O": 0.6282699066793681
+    },
+    {
+      "direction": "outbound",
+      "comparator": "L",
+      "n_stations": 325,
+      "spearman": 0.807383944031385,
+      "mean_abs_percentile_gap": 0.12888994082840238,
+      "gap_ge20pp_n": 75,
+      "top_k": 65,
+      "top_overlap": 43,
+      "top_jaccard": 0.4942528735632184,
+      "tied_top_comparator_n": 69,
+      "tied_top_A_n": 65,
+      "tied_top_overlap": 44,
+      "zero_service": 6,
+      "median_A": 14.697472480908807,
+      "median_O": 0.6282699066793681
+    },
+    {
+      "direction": "outbound",
+      "comparator": "S_km2",
+      "n_stations": 325,
+      "spearman": 0.8995120834291017,
+      "mean_abs_percentile_gap": 0.09245917159763314,
+      "gap_ge20pp_n": 41,
+      "top_k": 65,
+      "top_overlap": 49,
+      "top_jaccard": 0.6049382716049383,
+      "tied_top_comparator_n": 65,
+      "tied_top_A_n": 65,
+      "tied_top_overlap": 49,
+      "zero_service": 6,
+      "median_A": 14.697472480908807,
+      "median_O": 0.6282699066793681
+    }
+  ],
+  "grid_count": 54,
+  "variant_count": 8,
+  "grid_ranges": {
+    "inbound": {
+      "rho_count_area": [
+        0.778076254896911,
+        0.9361435042399483
+      ],
+      "rho_base_A": [
+        0.7790423337805972,
+        1.0
+      ],
+      "gap_ge20pp": [
+        19.0,
+        93.0
+      ],
+      "S_gap_ge20pp": [
+        10.0,
+        62.0
+      ],
+      "median_overlap": [
+        0.4319776082032307,
+        0.8253545337504333
+      ]
+    },
+    "outbound": {
+      "rho_count_area": [
+        0.7540557712512358,
+        0.9384299660398673
+      ],
+      "rho_base_A": [
+        0.7729947291030564,
+        1.0
+      ],
+      "gap_ge20pp": [
+        17.0,
+        97.0
+      ],
+      "S_gap_ge20pp": [
+        9.0,
+        70.0
+      ],
+      "median_overlap": [
+        0.4294519606453624,
+        0.8263449974444386
+      ]
+    }
+  },
+  "stable_extremes": {
+    "inbound": {
+      "positive_at_least22": 5,
+      "negative_at_least22": 6
+    },
+    "outbound": {
+      "positive_at_least22": 4,
+      "negative_at_least22": 4
+    }
+  },
+  "cases": [
+    {
+      "station_id": "S022",
+      "name": "仙湖路",
+      "x": 825110.6223808168,
+      "y": 2498995.629379498,
+      "direction": "inbound",
+      "radius_m": 500,
+      "budget_m": 5000,
+      "buffer_m": 300,
+      "tag": "core",
+      "N": 28,
+      "L": 23,
+      "A_km2": 8.11305845266768,
+      "S_km2": 37.756098328371834,
+      "O": 0.7851192572360921,
+      "served_points": 70,
+      "B500_km2": 3.124418385217186,
+      "B300_km2": 5.795722528253266,
+      "B800_km2": 0.7066255447681727,
+      "selection": "low_same_N"
+    },
+    {
+      "station_id": "S177",
+      "name": "沙井",
+      "x": 789582.3744342045,
+      "y": 2516803.6287489817,
+      "direction": "inbound",
+      "radius_m": 500,
+      "budget_m": 5000,
+      "buffer_m": 300,
+      "tag": "core",
+      "N": 28,
+      "L": 15,
+      "A_km2": 26.026460862413877,
+      "S_km2": 58.11141105077562,
+      "O": 0.5521282241852137,
+      "served_points": 155,
+      "B500_km2": 21.099649541510505,
+      "B300_km2": 24.016792038405843,
+      "B800_km2": 15.106530525168004,
+      "selection": "high_same_N"
+    },
+    {
+      "station_id": "S022",
+      "name": "仙湖路",
+      "x": 825110.6223808168,
+      "y": 2498995.629379498,
+      "direction": "outbound",
+      "radius_m": 500,
+      "budget_m": 5000,
+      "buffer_m": 300,
+      "tag": "core",
+      "N": 28,
+      "L": 23,
+      "A_km2": 9.656167928733002,
+      "S_km2": 47.72021306517144,
+      "O": 0.7976503601200274,
+      "served_points": 73,
+      "B500_km2": 4.125259841787394,
+      "B300_km2": 7.255492603748443,
+      "B800_km2": 0.8468606018102077,
+      "selection": "low_same_N"
+    },
+    {
+      "station_id": "S177",
+      "name": "沙井",
+      "x": 789582.3744342045,
+      "y": 2516803.6287489817,
+      "direction": "outbound",
+      "radius_m": 500,
+      "budget_m": 5000,
+      "buffer_m": 300,
+      "tag": "core",
+      "N": 28,
+      "L": 15,
+      "A_km2": 25.576957694553435,
+      "S_km2": 56.1155428920648,
+      "O": 0.5442090305755516,
+      "served_points": 150,
+      "B500_km2": 21.70272444307987,
+      "B300_km2": 24.09536933041133,
+      "B800_km2": 16.66966872411037,
+      "selection": "high_same_N"
+    }
+  ]
+}
